@@ -22,7 +22,7 @@ export default {
       books: [
         { title: "Self-Reliance", author: "Ralph Waldo Emerson", finishedReading: true},
         { title: "American Gods", author: "Neil Gaiman", finishedReading: false},
-        { title: "Amusing Ourselves to Death", author: "Neil Postman", finishedReading: true }
+        { title: "Amusing Ourselves to Death", author: "Neil Postman", finishedReading: true}
       ]
     };
   },
